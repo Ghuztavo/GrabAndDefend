@@ -1,0 +1,67 @@
+﻿  GrabAndDefend.cpp
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(39,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(39,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(47,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(47,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Chest.h(55,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Chest.h(55,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Enemy.h(20,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Enemy.h(20,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GrabAndDefend.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(98,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(148,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(295,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(315,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(447,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(451,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(502,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(504,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(504,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(508,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(508,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(516,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(516,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(39,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(39,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(47,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Hand.h(47,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Chest.h(55,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Chest.h(55,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Enemy.h(20,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\Enemy.h(20,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\GrabAndDefend.cpp(27,1): warning C4715: 'GrabAndDefend::getRandPosition': not all control paths return a value
+  FinalProject.vcxproj -> C:\Users\Gusmu\OneDrive\Documentos\LCI\Game_Programing\2dProgramming\FinalProject\x64\Debug\FinalProject.exe
