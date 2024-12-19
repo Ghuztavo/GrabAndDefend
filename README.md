@@ -1,7 +1,6 @@
 # GrabAndDefend
-Simple game coded with c++, where you control a left hand with the keyboard and the right hand with the mouse and you have to kill the enemies before they get to the chest.
+Simple game coded with c++ using raylib, where you control a left hand with the keyboard and the right hand with the mouse and you have to kill the enemies before they get to the chest.
 The more enemies you kill, the more score you get, and the only objective is to get as much score as you can before losing all your health points.
-
 
 #Controls
 
